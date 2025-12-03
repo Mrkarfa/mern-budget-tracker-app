@@ -33,3 +33,7 @@ coverage/
 # Documentation
 *.md
 !README.md
+
+# Corrupted favicon - using icon.tsx instead
+**/favicon.ico
+src/app/favicon.ico

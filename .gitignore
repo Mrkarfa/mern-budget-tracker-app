@@ -36,3 +36,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Corrupted favicon - using icon.tsx instead
+src/app/favicon.ico
