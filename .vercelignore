@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Debug files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output (handled by Vercel)
+.next/
+out/
+
+# Test files
+coverage/
+.nyc_output/
+
+# Documentation
+*.md
+!README.md
